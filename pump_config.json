@@ -1,0 +1,1 @@
+[{"name": "rum", "GPIO": 29, "pump": 0}, {"name": "cola", "GPIO": 31, "pump": 1}, {"name": "fanta", "GPIO": 33, "pump": 2}, {"name": "orange", "GPIO": 36, "pump": 3}, {"name": "lime", "GPIO": 32, "pump": 4}, {"name": "sprite", "GPIO": 38, "pump": 5}, {"name": "tequila", "GPIO": 40, "pump": 6}, {"name": "grapefruit", "GPIO": 37, "pump": 7}]

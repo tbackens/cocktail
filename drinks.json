@@ -1,0 +1,65 @@
+[
+    {
+            "name": "Tequila-Sunrise",
+            "ingredients": {
+                "tequila": 30,
+                "orange": 150,
+                "syrup": 20
+            }
+    }, {
+            "name": "Havanna-Icetea",
+            "ingredients": {
+                "rum": 40,
+                "icetea": 20,
+                "lime": 20
+            }
+    }, {
+            "name": "Hurricane",
+            "ingredients": {
+                "rum": 40,
+                "orange": 150,
+                "syrup": 20,
+                "lime": 10
+            }
+    }, {
+            "name": "Passion",
+            "ingredients": {
+                "rum": 40,
+                "lime": 10,
+                "maracuja": 140,
+                "syrup": 10
+            }
+    }, {
+            "name": "Long-Island",
+            "ingredients": {
+                "rum": 20,
+                "tequila": 20,
+                "orange": 40,
+                "lime": 20,
+                "cola": 120
+            }
+    }, {
+            "name": "Mai Tai",
+            "ingredients": {
+                "rum": 40,
+                "pineapple": 120,
+                "lime": 20,
+                "syrup": 20
+            }
+    }, {
+            "name": "Margarita",
+            "ingredients": {
+                "tequila": 40,
+                "lime": 40
+            }
+    }, {
+            "name": "Planters",
+            "ingredients": {
+                "rum": 40,
+                "pineapple": 60,
+                "orange": 60,
+                "lime": 20,
+                "syrup": 20
+            }
+    }
+]
