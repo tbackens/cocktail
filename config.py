@@ -59,8 +59,8 @@ drink_list = [
             "name": "CleanParadise(Alkoholfrei)",
             "ingredients": {
                 "ananas": 60,
-                "maracuja": 60,
-                "orange": 50,
+                "maracuja": 50,
+                "orange": 60,
                 "lime": 8,
                 "sirup": 20
             }
