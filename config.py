@@ -28,7 +28,7 @@ drink_list = [
                 "rum": 20,
                 "tequila": 20,
                 "orange": 40,
-                "lime": 15,
+                "lime": 10,
                 "cola": 130
             }
     }, {
@@ -36,7 +36,7 @@ drink_list = [
             "ingredients": {
                 "rum": 40,
                 "ananas": 120,
-                "lime": 20,
+                "lime": 10,
                 "sirup": 20
             }
     }, {
@@ -51,7 +51,7 @@ drink_list = [
                 "rum": 40,
                 "ananas": 60,
                 "orange": 60,
-                "lime": 20,
+                "lime": 10,
                 "sirup": 20
             }
     },
@@ -61,7 +61,7 @@ drink_list = [
                 "ananas": 60,
                 "maracuja": 650,
                 "orange": 50,
-                "lime": 20,
+                "lime": 8,
                 "sirup": 20
             }
     }
