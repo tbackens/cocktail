@@ -56,7 +56,7 @@ drink_list = [
             }
     },
     {
-            "name": "Clean Paradise(0%)",
+            "name": "CleanParadise(Alkoholfrei)",
             "ingredients": {
                 "ananas": 60,
                 "maracuja": 60,
