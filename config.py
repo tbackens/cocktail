@@ -59,7 +59,7 @@ drink_list = [
             "name": "Clean Paradise(0%)",
             "ingredients": {
                 "ananas": 60,
-                "maracuja": 650,
+                "maracuja": 60,
                 "orange": 50,
                 "lime": 8,
                 "sirup": 20
