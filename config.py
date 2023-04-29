@@ -28,8 +28,8 @@ drink_list = [
                 "rum": 20,
                 "tequila": 20,
                 "orange": 40,
-                "lime": 20,
-                "cola": 120
+                "lime": 15,
+                "cola": 130
             }
     }, {
             "name": "Mai Tai",
